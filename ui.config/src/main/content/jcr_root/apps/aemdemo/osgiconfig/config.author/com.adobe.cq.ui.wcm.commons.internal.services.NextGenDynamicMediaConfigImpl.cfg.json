@@ -1,0 +1,5 @@
+{
+  "enabled": "true",
+  "imsClient": "$[env:ASSET_DELIVERY_IMS_CLIENT;default= ]",
+  "repositoryId": "$[env:ASSET_DELIVERY_REPOSITORY_ID;default= ]"
+}
